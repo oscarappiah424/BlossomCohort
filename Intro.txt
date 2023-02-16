@@ -1,3 +1,5 @@
 Welcome to Blossom Academy.
 
 I am a student of Blossom Academy.
+
+I am a boy.
